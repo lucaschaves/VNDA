@@ -2,6 +2,26 @@
 
 Esse projeto ilustra um cadastros de usuários utilizando a API da VNDA
 
+## Bibliotecas utilizadas
+
+#### Backend
+
+-   axios
+-   body-parser
+-   cors
+-   dotenv
+-   express
+-   concurrently
+-   nodemon
+
+#### Frontend
+
+-   material ui
+-   axios
+-   next
+-   react
+-   dotenv
+
 ## Instalando
 
 ```bash
